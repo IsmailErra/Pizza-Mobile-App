@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-debug-4:\\mipmap-xxhdpi_pizza4.jpg.flat",
+        "source": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-main-6:\\mipmap-xxhdpi\\pizza4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-debug-4:\\mipmap-xxhdpi_pizza2.jpg.flat",
+        "source": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-main-6:\\mipmap-xxhdpi\\pizza2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-debug-4:\\mipmap-xxhdpi_pizza10.jpg.flat",
+        "source": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-main-6:\\mipmap-xxhdpi\\pizza10.jpg"
+    },
+    {
+        "merged": "com.example.pizzarecipes.app-debug-4:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.pizzarecipes.app-main-6:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.pizzarecipes.app-debug-4:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.pizzarecipes.app-main-6:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-debug-4:\\mipmap-xxhdpi_pizza6.jpg.flat",
+        "source": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-main-6:\\mipmap-xxhdpi\\pizza6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-debug-4:\\layout_activity_pizza_detail.xml.flat",
+        "source": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-main-6:\\layout\\activity_pizza_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-debug-4:\\layout_row_pizza.xml.flat",
+        "source": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-main-6:\\layout\\row_pizza.xml"
+    },
+    {
+        "merged": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-debug-4:\\mipmap-xxhdpi_pizza7.jpg.flat",
+        "source": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-main-6:\\mipmap-xxhdpi\\pizza7.jpg"
+    },
+    {
+        "merged": "com.example.pizzarecipes.app-debug-4:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.pizzarecipes.app-main-6:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.pizzarecipes.app-debug-4:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.pizzarecipes.app-main-6:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.pizzarecipes.app-debug-4:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.pizzarecipes.app-main-6:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-debug-4:\\mipmap-xxhdpi_pizza9.jpg.flat",
+        "source": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-main-6:\\mipmap-xxhdpi\\pizza9.jpg"
+    },
+    {
+        "merged": "com.example.pizzarecipes.app-debug-4:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.pizzarecipes.app-main-6:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.pizzarecipes.app-debug-4:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.pizzarecipes.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.pizzarecipes.app-debug-4:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.pizzarecipes.app-main-6:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-debug-4:\\mipmap-xxhdpi_pizza5.jpg.flat",
+        "source": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-main-6:\\mipmap-xxhdpi\\pizza5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-debug-4:\\layout_activity_list_pizza.xml.flat",
+        "source": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-main-6:\\layout\\activity_list_pizza.xml"
+    },
+    {
+        "merged": "com.example.pizzarecipes.app-debug-4:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.pizzarecipes.app-main-6:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-debug-4:\\mipmap-xxhdpi_pizza1.jpg.flat",
+        "source": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-main-6:\\mipmap-xxhdpi\\pizza1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-debug-4:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-main-6:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-debug-4:\\mipmap-xxhdpi_pizza8.jpg.flat",
+        "source": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-main-6:\\mipmap-xxhdpi\\pizza8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-debug-4:\\anim_logo_pop.xml.flat",
+        "source": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-main-6:\\anim\\logo_pop.xml"
+    },
+    {
+        "merged": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-debug-4:\\drawable_pizza_logo.png.flat",
+        "source": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-main-6:\\drawable\\pizza_logo.png"
+    },
+    {
+        "merged": "com.example.pizzarecipes.app-debug-4:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.pizzarecipes.app-main-6:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-debug-4:\\mipmap-xxhdpi_pizza3.jpg.flat",
+        "source": "C:\\Users\\ismai\\.gradle\\daemon\\8.7\\com.example.pizzarecipes.app-main-6:\\mipmap-xxhdpi\\pizza3.jpg"
+    }
+]

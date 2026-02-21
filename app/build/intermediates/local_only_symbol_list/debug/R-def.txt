@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+anim logo_pop
+color black
+color colorAccent
+color colorPrimary
+color colorPrimaryVariant
+color white
+drawable pizza_logo
+id desc
+id img
+id imgPizza
+id ingredients
+id lvPizzas
+id meta
+id splash_logo
+id steps
+id title
+id tvMeta
+id tvNom
+layout activity_list_pizza
+layout activity_pizza_detail
+layout activity_splash
+layout row_pizza
+mipmap pizza1
+mipmap pizza10
+mipmap pizza2
+mipmap pizza3
+mipmap pizza4
+mipmap pizza5
+mipmap pizza6
+mipmap pizza7
+mipmap pizza8
+mipmap pizza9
+string app_name
+style Theme.PizzaRecipes
